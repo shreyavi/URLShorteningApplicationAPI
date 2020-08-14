@@ -9,5 +9,5 @@ Install Java and MySQL first.
 
 
 # API Methods:
-create
+create<br/>
 redirect
